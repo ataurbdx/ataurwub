@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ataurwub
-- 👀 I’m interested in node js, vuwe.js
+- 👀 I’m interested in node js, vue.js
 - 🌱 I’m currently learning web development with laravel
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me: here is my Email = ataurrahman.wub@gmail.com
